@@ -1,0 +1,23 @@
+{
+  "name": "options-data",
+  "version": "1.0.0",
+  "description": "Options Data ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltertschwe/options-data.git"
+  },
+  "keywords": [
+    "options",
+    "data"
+  ],
+  "author": "Walter Schweitzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltertschwe/options-data/issues"
+  },
+  "homepage": "https://github.com/waltertschwe/options-data#readme"
+}
