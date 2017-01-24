@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/waltertschwe/options-data/issues"
   },
-  "homepage": "https://github.com/waltertschwe/options-data#readme"
+  "homepage": "https://github.com/waltertschwe/options-data#readme",
+  "dependencies": {
+    "es6-request": "^2.1.3"
+  }
 }
